@@ -1,3 +1,6 @@
 Animals:
 
 Birds
+lizards
+snakes
+hedgehogs
